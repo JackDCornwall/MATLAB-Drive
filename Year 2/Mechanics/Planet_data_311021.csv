@@ -1,0 +1,10 @@
+Body,sol distance (x10^9)m,mass (x10^22)kg,sol orbit (days)
+Mercury,58,33,88
+Venus,108,487,224.7
+Earth,150,598,365.2
+Mars,228,64.2,687
+Jupiter,778,190000,4332
+Saturn,1429,56900,10760
+Uranus,2871,8690,30700
+Neptune,4504,10280,60200
+Pluto,5913,1.49,90600
